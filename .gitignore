@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 #path settings.py
-<hello_django>settings.py/
+.env
